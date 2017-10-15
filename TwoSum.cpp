@@ -16,5 +16,6 @@ public:
 		    s[nums[i]] = i; 
 	    }
 	    return index;
+//for Test
     }
 };
